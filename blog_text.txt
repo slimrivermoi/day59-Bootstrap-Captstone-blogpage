@@ -1,0 +1,33 @@
+// 20240517091829
+// https://api.npoint.io/6d2a2cbe22c7d4310485
+
+[
+  {
+    "id": 1,
+    "body": "At last! It took all day but here it is. What did I learn? Don't take too long of a break from coding. I spent all days trying to recall what I have learned. I am going to learn more about Jekyll before I ventured further.",
+    "title": "My first blog is here!",
+    "subtitle": "It's never too late, they said.",
+    "image_url": "static/assets/img/blog1-bg.jpg"
+  },
+  {
+    "id": 2,
+    "body": "I have decided to take a career break with 2 goals: to learn German and Coding. 5 months into the journey, I realized how much I've learned and how much I still do not know. It's like a learning paradox. Now I am 2/3 into the 100 days of code, joined a coding camp for data science track, and learning how to further improve my Selenium skill to do QA testing on a startup website to gain more experience. Not to mention, I still have plan to further improve this website.😫 If only I have more than 24 hours in a day...",
+    "title": "Where do you begin?",
+    "subtitle": "Keep calm and code.",
+    "image_url": "static/assets/img/blog2-bg.jpg"
+  },
+  {
+    "id": 3,
+    "body": "In the Udemy's 100 Days of Code course, I learned to use Selenium to automate tasks on web such as filling out online surveys, saving relevant job postings in my Linkedin Profile based on key words (also learned that you can use it to do some not so ethical stuffs like auto-like an IG post, auto-swipe right on Tinder profile, etc.). Then, Matt, my hub, suggested that I use Selenium to do QA testing for their startup website. I didn't even know you can do that! So I spent more than 3 days googling online, watching Youtube videos learning about setting up test cases and testing with Pytest. The whole process was a lot like when I tried to build my blog page from scratch on Github -- lots of back-and-forth for very little result. But the process itself allows me to understand the concepts better and I actually built some really simple QA tests. Of course, my codes probabaly need a lot of adjustments from the pros. I am just excited to finally make use of my learning! ",
+    "title": "Selenium and Pytest for QA Testing",
+    "subtitle": "Keep calm and code.",
+    "image_url": "static/assets/img/blog3-bg.jpg"
+  },
+  {
+    "id": 4,
+    "body": "I did not learn crochet because I wanted to. In fact, I always thought I am not talented and patient enough for this craft. Somehow I decided to buy a crochet kit to gift my daughter last summer. But the moment we opened the kit to read the manual, it felt like we were never going to make it. The instructions are written in codes that are no different than any computer languages(6 SC to a magic ring, 1 SC in first st, 2 SC in the next st, repeat 6 times, etc.). We spent hours watching Youtube videos to learn how to practice the basic stitches, pulling the yarn for better tension, and I could not remember how many times I crocheted a little finger condom instead of a head of a toy lion. And for several months, I would spend hours practicing the stitches and undoing everything that I stitched. The process went on for a good 4 months until I noticed I am finally able to somehow crochet something into the shape based on the instructions! I recalled taking my yarns and hook in a bag and did my crochet while sitting on a picnic blanket on a warm summer Sunday in the park with my family. Nothing beats that experience. Through crochet, my mind travels between the stitches, counting and stitches and admiring how cool you can create anything from yarn. I used to think knitting and crocheting are for grandmas. I am that grandma now and I am proud of it. ",
+    "title": "Let's Talk Crochet (Part 1)",
+    "subtitle": "Escaped through slip stitches and magic rings",
+    "image_url": "static/assets/img/blog4-bg.jpg"
+  }
+]
